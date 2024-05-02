@@ -1,0 +1,6 @@
+Usernyo : bagian keuangan, pimpinan, donatur, koperasi, pangkas rambutan
+Fitur bagian keuangan : home, keuangan masuk (spp, donatur, koperasi, pangkas rambut), keuangan keluar, laporan
+Fitur pimpinan : liat laporan keuangan dlm bentuk grafik & pdf
+Fitur donatur : masukin jumlah & bukti tf
+Fitur koperasi: home,keuangan masuk, keluar, laporan
+Fitur pangkas rambut : home,keuangan masuk, keluar, laporan
