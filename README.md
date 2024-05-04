@@ -25,7 +25,7 @@ Sistem informasi keuangan pondok pesantren ini merupakan sebuah sistem keuangan 
 - Rename file `env` menjadi `.env`
 - rename folder `_vendor` menjadi `vendor`
 - masuk ke direktori `public/template/` lalu rename folder `_build` dan `_dist` menjadi `build` dan `dist`
-- import database yang ada di folder `db/simas.sql`
+- import database yang ada di folder `db/simkeu.sql`
 - run app dengan mengetikkan perintah `php spark serve` pada terminal
 
 ## Contact
