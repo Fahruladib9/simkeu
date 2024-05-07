@@ -111,7 +111,7 @@ class Filters extends BaseFilters
     public array $filters = [
         'login' => [
             'before' => [
-                '/', '/users', '/users/*', '/user/*', '/santri', '/santri/*', '/donatur', '/donatur/*', '/kelas', '/kelas/*', '/spp', '/spp/*', '/masuk/*', '/keluar', '/keluar/*', '/laporan/*'
+                '/', '/users', '/users/*', '/user/*', '/santri', '/santri/*', '/donatur', '/donatur/*', '/kelas', '/kelas/*', '/spp', '/spp/*', '/masuk/*', '/keluar', '/keluar/*', '/laporan/*', '/admin', '/admin/*', '/kepala', '/kepala/*'
             ]
         ],
         'is_login' => [
